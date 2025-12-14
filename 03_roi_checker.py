@@ -1,3 +1,7 @@
+"""
+내가 찾은 ROI 가 맞는지 확인하는 코드.
+(개발자 옵션 > 입력 > 포인터 위치 를 켜놓고 찾으면 편리합니다.)
+"""
 import subprocess
 import cv2
 import numpy as np
