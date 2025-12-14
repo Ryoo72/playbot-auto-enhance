@@ -11,5 +11,8 @@ brew cask install android-platform-tools
 # brew 가 없다면 https://brew.sh/ko/ 를 통해 설치.
 ```
 2. run_me 에 적힌대로 실행합니다.
+```zsh
+python3 04_run_me.py
+```
 
 > 이 [링크](https://blog.naver.com/kwangrok21/224109639144) 를 통해 scrcpy + pyautogui 를 도전해보세요.
