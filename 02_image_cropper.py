@@ -3,7 +3,7 @@
 """
 import cv2
 
-IMG_PATH = "roi_check.png"   # 자를 원본 이미지
+IMG_PATH = "screen.png"   # 자를 원본 이미지
 OUT_PATH = "target_number.png" # 저장될 템플릿
 
 img = cv2.imread(IMG_PATH)
