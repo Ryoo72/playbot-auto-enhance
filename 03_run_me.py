@@ -12,7 +12,7 @@ import cv2
 import numpy as np
 
 # ================= 설정 =================
-TPL_PATH = "template_16_real.png"
+TPL_PATH = "target_number.png"
 THRESH = 0.93
 
 # [+16] 표시 ROI (x1, y1, x2, y2)
