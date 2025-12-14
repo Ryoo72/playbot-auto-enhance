@@ -10,7 +10,7 @@
 brew cask install android-platform-tools
 # brew 가 없다면 https://brew.sh/ko/ 를 통해 설치.
 ```
-2. run_me 에 적힌대로 실행합니다.
+2. run_me 에 적힌대로 요구조건을 만족한 뒤 실행합니다.
 ```zsh
 python3 04_run_me.py
 ```
